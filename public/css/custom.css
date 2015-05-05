@@ -1,0 +1,124 @@
+
+.listing{
+    background: #F5F5F5;
+    padding: 20px;
+    color: #000;
+}
+.wellcome{
+    text-align: center;
+}
+.wellcome > h1{
+    font-size: 45px;
+}
+.user_name{
+    padding-top: 10px;
+}
+.user_name > p > span{
+    padding-left: 5px;
+    font-size: 14px;
+    color: #286090;
+}
+
+.call{
+    font-size: 17px;
+    color: #000;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.pagi{
+    text-align: center;
+}
+.media-body > h2{
+    margin-top: 0px;
+}
+.room{
+    color: #286090;
+}
+.description> p{
+    line-height: 18px;
+}
+.button_area{
+    padding:10px 0px;
+    overflow: hidden;
+    clear: both;
+}
+.button{
+    padding-left: 0px !important;
+}
+.button  > a,.edit_button > a{
+    padding: 10px 15px;
+    background: #007CE2;
+    color: #fff;
+    line-height: 20px;
+    border-radius: 5px;
+}
+.edit_button > a{
+    background: #D55938 !important;
+}
+.edit_button > a:hover{
+    background: #9E351A !important;
+    text-decoration: none;
+}
+.button  > a:hover{
+    background: #0B538E;
+    text-decoration: none;
+}
+.pagination > li > a{
+    position: relative;
+    float: left;
+    padding: 8px 17px;
+    margin-left: -1px;
+    line-height: 1.42857;
+    color: #000;
+    text-decoration: none;
+    background-color: #ddd;
+    border: 1px solid #666;
+}
+.pagination > li > a:hover{
+    border: 1px solid #666;
+}
+.list_table > ul{
+    border-bottom: 1px solid #DBDBDB;
+    overflow: hidden;
+    padding-left: 0px !important;
+
+}
+.list_table > ul > li{
+    float: left;
+    color: #000;
+    font-size: 14px;
+    list-style: none;
+}
+.list_table .label {
+    color: #012B8E;
+    font-size:12px;
+    font-weight: 700;
+    float: left;
+    width: 40%;
+    text-align: left !important;
+}
+.list_table ul li {
+    float: right;
+    width: 58%;
+    color: #000;
+    font-size:12px;
+    padding: 10px 0px 10px 2%;
+}
+.title > p{
+    text-align: right;
+}
+.sp-wrap {
+    max-width: 450px !important;
+}
+.contact_title{
+    padding: 10px 20px;
+    background: #82A7FF;
+    color: #fff;
+    width: 300px;
+
+}
+.contact > h3{
+    color: #000;
+    font-size: 18px;
+    font-weight: bold;
+}
