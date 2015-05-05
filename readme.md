@@ -52,7 +52,7 @@ Demo is here http://45.55.194.109
 <a name="step1"></a>
 ### Step 1: Get the code - Download the repository
 
-    https://github.com/strewb/online-rental/archive/master.zip
+    https://github.com/strewb/Rental/archive/master.zip
 
 Extract it in www(or htdocs if you using XAMPP) folder and put it for example in OnlineRental folder.
 
