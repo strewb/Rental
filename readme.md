@@ -141,7 +141,5 @@ If you are running on a system that handles notifications poorly or you simply d
 
 <a name="feature8"></a>
 ##How Starter Site is look like
-
-![Login](http://i62.tinypic.com/madw7q.jpg)
-![Register new user](http://i62.tinypic.com/1586pew.jpg)
+	Demo is here http://45.55.194.109
 
